@@ -1,5 +1,5 @@
 -i https://pypi.org/simple
-attrs==25.3.0; python_version >= '3.8'
+attrs==25.4.0; python_version >= '3.8'
 certifi==2025.8.3; python_version >= '3.6'
 cffi==1.17.1; python_version >= '3.8'
 charset-normalizer==3.4.3; python_full_version >= '3.7.0'
